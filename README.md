@@ -1,4 +1,5 @@
 # hamming-code-digital-circuit-
+you can view the pcb here : https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fabdelrhman12312%2Fhamming-code-digital-circuit-%2Ftree%2Fmain%2Fhamming%2520code
 In computer science and telecommunication, Hamming codes are a family of linear error-correcting codes. Hamming codes can detect one-bit and two-bit errors, or correct one-bit errors without detection of uncorrected errors. By contrast, the simple parity code cannot correct errors, and can detect only an odd number of bits in error. Hamming codes are perfect codes, that is, they achieve the highest possible rate for codes with their block length and minimum distance of three.[1] Richard W. Hamming invented Hamming codes in 1950 as a way of automatically correcting errors introduced by punched card readers. In his original paper, Hamming elaborated his general idea, but specifically focused on the Hamming(7,4) code which adds three parity bits to four bits of data.
 
 ## Description
